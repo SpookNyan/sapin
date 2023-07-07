@@ -3,4 +3,4 @@
 
 ### Code Request
 blue bubbly 2 by @Cinni 
-[Cini Code Pen]([https://pages.github.com](https://codepen.io/cinni)https://codepen.io/cinni/).
+[Code-Pen Page](https://codepen.io/cinni)
